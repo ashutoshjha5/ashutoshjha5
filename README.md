@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashutoshjha5
+- 👋 Hi, I’m @ashutosh jha
 - 👀 I’m interested in data analyst coding
 - 🌱 I’m currently learning sql, python...
 - 💞️ I’m looking to collaborate on sql python data analysis
